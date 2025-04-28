@@ -2,7 +2,7 @@
 
 Earn rewards with Crafting: Staking & APY Explained
 
-![](https://docs.myneighboralice.com/\~gitbook/image?url=https:%2F%2Flh7-us.googleusercontent.com%2FC683ChFZGeIfZtaIEGquIKVVZ5X-gxBFW90byx7Dm5gF6uOji93BUVRQrcA6tM6emnhH\_-pC-EflCsH228BJTZSKhyJt48hAcZIWzn06-reyOC1qmUIxtcGS3ZB5i2123B4at4U5EBCdiOhDjYrhVCc\&width=768\&dpr=4\&quality=100\&sign=02e6ad0fe5bff522bb36b3d5f55acb6c873c9783f5104d057e73ec7128be19ac)
+![](https://docs.myneighboralice.com/~gitbook/image?url=https:%2F%2Flh7-us.googleusercontent.com%2FC683ChFZGeIfZtaIEGquIKVVZ5X-gxBFW90byx7Dm5gF6uOji93BUVRQrcA6tM6emnhH_-pC-EflCsH228BJTZSKhyJt48hAcZIWzn06-reyOC1qmUIxtcGS3ZB5i2123B4at4U5EBCdiOhDjYrhVCc\&width=768\&dpr=4\&quality=100\&sign=02e6ad0fe5bff522bb36b3d5f55acb6c873c9783f5104d057e73ec7128be19ac)
 
 ### Intro <a href="#intro" id="intro"></a>
 
@@ -20,7 +20,7 @@ When a user [crafts an item](https://docs.myneighboralice.com/gameplay/crafting)
 
 In Alpha Season 4, of the selling price of all the items crafted with $ALICE token, 50% of the amount will be counted as collateral. These items can be staked via Marketplace during the Alpha Season. After the Alpha Season concludes, players will passively receive rewards for each item crafted and collateralized with $ALICE tokens, a system we refer to as **staking**.
 
-![](https://docs.myneighboralice.com/\~gitbook/image?url=https:%2F%2Flh7-us.googleusercontent.com%2FN7oqfu8lv61wzg2MQebLgxawyiEkDJ3EQ2ecQ4NJRxUqf0s1VzU4BDuE233GNadbDukG27keoao1Z8kPxVpJ-Npk6e01EhfC4e0w5LwJ4048cS\_gNlD9LCeWvhLjjew5ZD6lsHrWVhplc1Fh7ShJ1M4\&width=768\&dpr=4\&quality=100\&sign=94c9dbae9dfdd3244723d195072ba1ff54cbe0702f75e92adb945cd841a66297)
+![](https://docs.myneighboralice.com/~gitbook/image?url=https:%2F%2Flh7-us.googleusercontent.com%2FN7oqfu8lv61wzg2MQebLgxawyiEkDJ3EQ2ecQ4NJRxUqf0s1VzU4BDuE233GNadbDukG27keoao1Z8kPxVpJ-Npk6e01EhfC4e0w5LwJ4048cS_gNlD9LCeWvhLjjew5ZD6lsHrWVhplc1Fh7ShJ1M4\&width=768\&dpr=4\&quality=100\&sign=94c9dbae9dfdd3244723d195072ba1ff54cbe0702f75e92adb945cd841a66297)
 
 **Example:**
 
@@ -36,7 +36,7 @@ A player can destroy an item and reclaim the collateral amount. Of course, you m
 
 You can easily monitor and manage staked $ALICE tokens directly on our [Marketplace](https://play.myneighboralice.com/). Simply connect to our website, click on your profile, and you will find the '[Staking](https://play.myneighboralice.com/staking/)' section.
 
-![](https://docs.myneighboralice.com/\~gitbook/image?url=https:%2F%2F1569250206-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FXck6SHo8BKdm45wALVA1%252Fuploads%252FXgTpoxzEIsjc0VYMbCdl%252Fstaking-section.png%3Falt=media%26token=0a17edad-9b72-47ee-98af-8c3cfdad8cd2\&width=768\&dpr=4\&quality=100\&sign=ebd9455d5eeb2b912ccc20a23287c4fedcd306cb2948926073fe60dc57b81d59)Staking section
+![](https://docs.myneighboralice.com/~gitbook/image?url=https:%2F%2F1569250206-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FXck6SHo8BKdm45wALVA1%252Fuploads%252FXgTpoxzEIsjc0VYMbCdl%252Fstaking-section.png%3Falt=media%26token=0a17edad-9b72-47ee-98af-8c3cfdad8cd2\&width=768\&dpr=4\&quality=100\&sign=ebd9455d5eeb2b912ccc20a23287c4fedcd306cb2948926073fe60dc57b81d59)Staking section
 
 This page will display all your crafted items in-game, current APY, staking start and final date, and of course accumulated rewards.
 
@@ -44,15 +44,15 @@ This page will display all your crafted items in-game, current APY, staking star
 
 The **18% Annual Percentage Yield (APY)** is valid **until March 31, 2024**, and may change in the future.
 
-![](https://docs.myneighboralice.com/\~gitbook/image?url=https:%2F%2F1569250206-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FXck6SHo8BKdm45wALVA1%252Fuploads%252FAKuiP3WY8putGdiPi6C3%252FFrame%25204.png%3Falt=media%26token=df184dd0-6d13-485e-a44c-ddd4c57b9750\&width=768\&dpr=4\&quality=100\&sign=530e053f42e6d60de2d18022f0d2863f6adabbe28dd2249d178a9a5629bbf2a9)Staking page
+![](https://docs.myneighboralice.com/~gitbook/image?url=https:%2F%2F1569250206-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FXck6SHo8BKdm45wALVA1%252Fuploads%252FAKuiP3WY8putGdiPi6C3%252FFrame%25204.png%3Falt=media%26token=df184dd0-6d13-485e-a44c-ddd4c57b9750\&width=768\&dpr=4\&quality=100\&sign=530e053f42e6d60de2d18022f0d2863f6adabbe28dd2249d178a9a5629bbf2a9)Staking page
 
 Each item shows how much $ALICE is used as collateral, giving you a clear view of your assets. We're committed to keeping things open and transparent for you.
 
-![](https://docs.myneighboralice.com/\~gitbook/image?url=https:%2F%2F1569250206-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FXck6SHo8BKdm45wALVA1%252Fuploads%252FUvMwEtaiVh89mHxTtf9u%252FFrame%25205.png%3Falt=media%26token=85fee1e8-eaae-4123-b6da-8be15074276f\&width=768\&dpr=4\&quality=100\&sign=6594e0d9a74bb8d850d756892a656954c292f16bb2d8741fa96519caf2e26d23)Collateral amount
+![](https://docs.myneighboralice.com/~gitbook/image?url=https:%2F%2F1569250206-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FXck6SHo8BKdm45wALVA1%252Fuploads%252FUvMwEtaiVh89mHxTtf9u%252FFrame%25205.png%3Falt=media%26token=85fee1e8-eaae-4123-b6da-8be15074276f\&width=768\&dpr=4\&quality=100\&sign=6594e0d9a74bb8d850d756892a656954c292f16bb2d8741fa96519caf2e26d23)Collateral amount
 
 To start staking, simply click on the **'Stake'** button, and the collateral amount will be added to the 'Total Staked'. Once the staking start date arrives, you will begin receiving rewards. After this date, the staked amount will be locked until the staking final date.
 
-![](https://docs.myneighboralice.com/\~gitbook/image?url=https:%2F%2F1569250206-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FXck6SHo8BKdm45wALVA1%252Fuploads%252Fh1n78hXjk2MKA5uRDMB6%252FFrame%25206.png%3Falt=media%26token=1da879e5-5a87-4b85-854a-d95cf9824751\&width=768\&dpr=4\&quality=100\&sign=7af67e4bc1418378c72defa02a08b82a12ea455a9885d9136083f5846c17f0b7)Stake
+![](https://docs.myneighboralice.com/~gitbook/image?url=https:%2F%2F1569250206-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FXck6SHo8BKdm45wALVA1%252Fuploads%252Fh1n78hXjk2MKA5uRDMB6%252FFrame%25206.png%3Falt=media%26token=1da879e5-5a87-4b85-854a-d95cf9824751\&width=768\&dpr=4\&quality=100\&sign=7af67e4bc1418378c72defa02a08b82a12ea455a9885d9136083f5846c17f0b7)Stake
 
 ***
 
@@ -60,7 +60,7 @@ To start staking, simply click on the **'Stake'** button, and the collateral amo
 
 You can easily check how much unclaimed $ALICE is in your wallet and instantly claim them whenever you want. Additionally, you can also check details regarding your recently claimed rewards.
 
-![](https://docs.myneighboralice.com/\~gitbook/image?url=https:%2F%2F1569250206-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FXck6SHo8BKdm45wALVA1%252Fuploads%252FmU7g1H8mZXQpg702Elbk%252FFrame%25209%2520%282%29.png%3Falt=media%26token=324a7a68-44fb-4296-9621-03b86c4f1f20\&width=768\&dpr=4\&quality=100\&sign=8640d3881102bbee6690c9cfa64d28ab8815a43e115e18d5a44643df974bcaba)Claim
+![](https://docs.myneighboralice.com/~gitbook/image?url=https:%2F%2F1569250206-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FXck6SHo8BKdm45wALVA1%252Fuploads%252FmU7g1H8mZXQpg702Elbk%252FFrame%25209%2520%282%29.png%3Falt=media%26token=324a7a68-44fb-4296-9621-03b86c4f1f20\&width=768\&dpr=4\&quality=100\&sign=8640d3881102bbee6690c9cfa64d28ab8815a43e115e18d5a44643df974bcaba)Claim
 
 ***
 
@@ -72,7 +72,7 @@ Not staked items can be destroyed at any time, while staked items can only be de
 
 To destroy the item, go to the Marketplace Staking page → Choose the item you wish to destroy → Click on 'More Action' → Follow the instructions. Once destroyed, collateral $ALICE will be returned to your in-game wallet balance on the Alpha Access page, where you can decide how to use it next: to craft another item or to withdraw it to your wallet.
 
-![](https://docs.myneighboralice.com/\~gitbook/image?url=https:%2F%2F1569250206-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FXck6SHo8BKdm45wALVA1%252Fuploads%252FzTUWt2x3DMMKECuNOaAO%252FFrame%25208%2520%281%29.png%3Falt=media%26token=34133460-0eae-4f60-ae54-496e93c3409a\&width=768\&dpr=4\&quality=100\&sign=8b88de41e5a9e42a10cf44a52e62ce0c098458467124a5b1ec306d2e0fd063de)Destroy item and reclaim collateral
+![](https://docs.myneighboralice.com/~gitbook/image?url=https:%2F%2F1569250206-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FXck6SHo8BKdm45wALVA1%252Fuploads%252FzTUWt2x3DMMKECuNOaAO%252FFrame%25208%2520%281%29.png%3Falt=media%26token=34133460-0eae-4f60-ae54-496e93c3409a\&width=768\&dpr=4\&quality=100\&sign=8b88de41e5a9e42a10cf44a52e62ce0c098458467124a5b1ec306d2e0fd063de)Destroy item and reclaim collateral
 
 ***
 

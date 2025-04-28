@@ -2,7 +2,7 @@
 
 Login using Venly in My Neighbor Alice: a step-by-step guide.
 
-![](https://docs.myneighboralice.com/\~gitbook/image?url=https:%2F%2F1569250206-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FXck6SHo8BKdm45wALVA1%252Fuploads%252FFmLr1IpT5Lxgm1ct6FjM%252F1%2520aq3C\_cyNQj\_-DodPjnpAtw.webp%3Falt=media%26token=e1009977-a90c-4c4d-8bd3-01dc6fda53dc\&width=768\&dpr=4\&quality=100\&sign=3c426e37faee9efe3a9a34bd15e210fb45e398bd60bcd207aea907d97386b314)[![Logo](https://miro.medium.com/v2/resize:fill:152:152/1\*sHhtYhaCe2Uc3IU0IgKwIQ.png)](https://myneighboralice.medium.com/log-in-using-venly-in-my-neighbor-alice-a-step-by-step-guide-c71ad49901a8)
+![](https://docs.myneighboralice.com/~gitbook/image?url=https:%2F%2F1569250206-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FXck6SHo8BKdm45wALVA1%252Fuploads%252FFmLr1IpT5Lxgm1ct6FjM%252F1%2520aq3C_cyNQj_-DodPjnpAtw.webp%3Falt=media%26token=e1009977-a90c-4c4d-8bd3-01dc6fda53dc\&width=768\&dpr=4\&quality=100\&sign=3c426e37faee9efe3a9a34bd15e210fb45e398bd60bcd207aea907d97386b314)[![Logo](https://miro.medium.com/v2/resize:fill:152:152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png)](https://myneighboralice.medium.com/log-in-using-venly-in-my-neighbor-alice-a-step-by-step-guide-c71ad49901a8)
 
 [Log-In using Venly in My Neighbor Alice: a step-by-step guide.Medium](https://myneighboralice.medium.com/log-in-using-venly-in-my-neighbor-alice-a-step-by-step-guide-c71ad49901a8)
 

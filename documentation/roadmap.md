@@ -1,6 +1,6 @@
 # Roadmap
 
-![](https://docs.myneighboralice.com/\~gitbook/image?url=https:%2F%2F1569250206-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FXck6SHo8BKdm45wALVA1%252Fuploads%252Fwcl7JN2UoAlzeCoS8soY%252F1%2520PskHfzXECep6IGzCvuocog.webp%3Falt=media%26token=acc03eb4-5240-4c7f-845f-9406a009c823\&width=768\&dpr=4\&quality=100\&sign=7b468a68dd85c53d8a19032a54fc5cc5df5d4299b18c228da42bc17a100f91a7)
+![](https://docs.myneighboralice.com/~gitbook/image?url=https:%2F%2F1569250206-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FXck6SHo8BKdm45wALVA1%252Fuploads%252Fwcl7JN2UoAlzeCoS8soY%252F1%2520PskHfzXECep6IGzCvuocog.webp%3Falt=media%26token=acc03eb4-5240-4c7f-845f-9406a009c823\&width=768\&dpr=4\&quality=100\&sign=7b468a68dd85c53d8a19032a54fc5cc5df5d4299b18c228da42bc17a100f91a7)
 
 Hey there, Neighbors!
 
